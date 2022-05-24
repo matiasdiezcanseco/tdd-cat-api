@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Button should match snapshot 1`] = `
+<div>
+  <button
+    class="min-w-[80px] flex justify-center p-2 text-gray-200 rounded-md bg-slate-600"
+  >
+    Test
+  </button>
+</div>
+`;

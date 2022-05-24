@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test CatList should show list 1`] = `
+<div>
+  <div
+    class="py-2 px-4 border-[1px] space-y-2 border-gray-600 rounded-md"
+  >
+    <h1
+      class="text-2xl text-center"
+    >
+      Lista de ids
+    </h1>
+    <ul
+      class="space-y-1"
+    >
+      <li
+        class=""
+      >
+        Abyssinian: abys
+      </li>
+      <li
+        class=""
+      >
+        American Bobtail: abob
+      </li>
+      <li
+        class=""
+      >
+        American Curl: acur
+      </li>
+      <li
+        class=""
+      >
+        Australian Mist: abys
+      </li>
+      <li
+        class=""
+      >
+        Bengal: beng
+      </li>
+      <li
+        class=""
+      >
+        Bombay: bomb
+      </li>
+      <li
+        class=""
+      >
+        Chartreux: char
+      </li>
+      <li
+        class=""
+      >
+        Cheetoh: chee
+      </li>
+      <li
+        class=""
+      >
+        Cymric: cymr
+      </li>
+    </ul>
+  </div>
+</div>
+`;

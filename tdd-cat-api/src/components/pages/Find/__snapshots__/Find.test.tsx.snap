@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Find should match snapshot 1`] = `
+<div>
+  <div
+    class="flex flex-col h-screen"
+  >
+    <div
+      class="py-4 bg-slate-500"
+    >
+      <ul
+        class="flex justify-center space-x-40 text-gray-100 text-lg"
+      >
+        <li
+          class="cursor-pointer hover:underline"
+        >
+          Home
+        </li>
+        <li
+          class="cursor-pointer hover:underline"
+        >
+          Buscar
+        </li>
+      </ul>
+    </div>
+    <div
+      class="flex-grow bg-gray-300"
+    >
+      <div
+        class="flex justify-between p-2 space-y-2"
+        data-testid="findpage-testid"
+      >
+        <div
+          class="space-y-2"
+        >
+          <label>
+            Buscar por id: 
+          </label>
+          <input
+            class="border-[1px] rounded-md border-gray-600 p-2 bg-transparent"
+            type="text"
+          />
+          <button
+            class="min-w-[80px] flex justify-center p-2 text-gray-200 rounded-md bg-slate-600"
+          >
+            Buscar
+          </button>
+        </div>
+        <div>
+          <div
+            class="py-2 px-4 border-[1px] space-y-2 border-gray-600 rounded-md"
+          >
+            <h1
+              class="text-2xl text-center"
+            >
+              Lista de ids
+            </h1>
+            <ul
+              class="space-y-1"
+            >
+              <li
+                class=""
+              >
+                Abyssinian: abys
+              </li>
+              <li
+                class=""
+              >
+                American Bobtail: abob
+              </li>
+              <li
+                class=""
+              >
+                American Curl: acur
+              </li>
+              <li
+                class=""
+              >
+                Australian Mist: abys
+              </li>
+              <li
+                class=""
+              >
+                Bengal: beng
+              </li>
+              <li
+                class=""
+              >
+                Bombay: bomb
+              </li>
+              <li
+                class=""
+              >
+                Chartreux: char
+              </li>
+              <li
+                class=""
+              >
+                Cheetoh: chee
+              </li>
+              <li
+                class=""
+              >
+                Cymric: cymr
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

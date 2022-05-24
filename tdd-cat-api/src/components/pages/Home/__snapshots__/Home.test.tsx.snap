@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Home should match snapshot 1`] = `
+<div>
+  <div
+    class="flex flex-col h-screen"
+  >
+    <div
+      class="py-4 bg-slate-500"
+    >
+      <ul
+        class="flex justify-center space-x-40 text-gray-100 text-lg"
+      >
+        <li
+          class="cursor-pointer hover:underline"
+        >
+          Home
+        </li>
+        <li
+          class="cursor-pointer hover:underline"
+        >
+          Buscar
+        </li>
+      </ul>
+    </div>
+    <div
+      class="flex-grow bg-gray-300"
+    >
+      <div
+        class="flex flex-col items-center justify-center h-full"
+        data-testid="homepage-testid"
+      >
+        <h1
+          class="text-5xl"
+        >
+          Un lugar para los amantes de los gatos
+        </h1>
+        <p
+          class="text-2xl"
+        >
+          Encuentra tus razas favoritas
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

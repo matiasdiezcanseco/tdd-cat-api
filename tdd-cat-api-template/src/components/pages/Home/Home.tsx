@@ -1,0 +1,12 @@
+import Input from '../../atoms/Input/Input'
+import Layout from '../../templates/Layout/Layout'
+
+const Home = () => {
+  return (
+    <div data-testid="homepage-testid" className="flex flex-col items-center justify-center h-full">
+      <h1 className="text-5xl">Un lugar para los amantes de los gatos</h1>
+    </div>
+  )
+}
+
+export default Home
